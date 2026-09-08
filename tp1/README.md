@@ -1,6 +1,6 @@
-# TP 1 — Título de tu artefacto
+# TP 1 — Login Azaroso
 
-Una o dos líneas sobre qué es y qué hace.
+Un login incómodo donde la probabilidad de acceder es de 3,70 %, es decir 1 de 27 veces.
 
 ## Cómo se ejecuta
 
