@@ -4,21 +4,19 @@ Una o dos líneas sobre qué es y qué hace.
 
 ## Cómo se ejecuta
 
-Los pasos exactos para que alguien más lo abra. Si es un archivo único, alcanza con decir que se abre `index.html` con doble click.
+Abrir `index.html` con doble click.
 
 ## Qué me propuse construir
 
-La especificación con la que arrancaste, antes de escribir el primer prompt. Qué tenía que hacer el artefacto y qué decidiste dejar afuera.
+La idea es presentar un login azaroso. No solo mostrar los campos habituales sino generar una interacción incómoda y azarosa que dificulte la funcionalidad.
 
 ## Decisiones que tomé yo
 
-Las decisiones de estructura que son tuyas y no del modelo por defecto. Por ejemplo: por qué un solo archivo, por qué ese manejo de estado, por qué esa forma de mostrar los datos.
-
-Esta sección es la que más pesa en la corrección. Si acá no hay nada, quiere decir que aceptaste lo primero que salió.
+La funcionalidad es bastante sencilla, lo que fui adaptando en prompts sucesivos fue algunos aspectos de layout y alguna ayuda para que durante las pruebas no sea realmente tan difícil hacer el login.
 
 ## Qué salió mal y cómo lo corregí
 
-Los desvíos concretos: qué te devolvió que no habías pedido, cómo te diste cuenta, y qué prompt usaste para corregirlo.
+Más que nada cuestiones de UX que quise ir llevando hacia la idea que tenía de cómo presentarlo.
 
 ## Prompts
 
